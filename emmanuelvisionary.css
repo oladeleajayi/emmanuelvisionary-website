@@ -1,0 +1,57 @@
+.main_container{
+               border:3px solid red;
+               height:900px;
+               padding:0px;
+               margin:0px; 
+  } 
+  nav{
+   padding: 5px;
+
+  }
+ h1{
+        color: rgb(15, 7, 88);
+        background-color: rgb(255, 145, 0);
+        height:50px;
+	   border:1px solid black;   
+ }
+ h2{
+    color:red;
+    background-color:purple;
+    height:50px;
+    border :1px solid black;
+ }
+ h3{
+    color: rgb(15, 7, 88);
+    background-color: rgb(255, 145, 0);
+    height:50px;
+   border:1px solid black;   
+}
+.demo h3[src]{
+   border:3px solid red;
+}
+h2 ul li a{
+   border:2px solid green;
+   border-radius:24px;
+   background-color:light blue; 
+   margin-left:40px;
+   padding-left:40px;
+}
+ .nav ul li a{
+   
+      
+      margin-left:50px;
+      padding-left:50px;
+      
+      
+      }
+
+
+
+
+
+
+
+
+
+
+
